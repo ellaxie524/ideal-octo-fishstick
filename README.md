@@ -1,2 +1,3 @@
 # ideal-octo-fishstick
-基于Java的课程评价系统（GUI）
+基于Java MYSQL的课程评价系统（GUI）
+
